@@ -2,7 +2,7 @@
 
   * The aim of the project: Create a console app to start fundraise projects.
 
-## The app should include the following features:
+## The app include the following features:
 
 ### 1- Authentication System:
 * Registration:
